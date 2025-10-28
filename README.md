@@ -29,12 +29,17 @@
 
 ## 登錄 Google 雲端硬碟
 
-單擊雲端硬碟，用 Google 帳號登錄。  
-單擊左上角 **「新建」**，你可以選擇上傳檔案或者資料夾，把訓練模型的資料集和配置上傳上去。  
-上傳完之後，點擊 **更多 → Google Colaboratory**，進入頁面。
+單擊雲端硬碟，用 Google 帳號登錄。界面如下： 
+<img width="1505" height="980" alt="image" src="https://github.com/user-attachments/assets/a65e7e80-7d8c-45e0-9c03-b91f0740b6be" />
+單擊左上角新建，得到如下的界面：
+<img width="1502" height="974" alt="image" src="https://github.com/user-attachments/assets/b9d28ed5-598a-400e-86e0-5f56da90cf5d" />
+你可以選擇或者，你可以把訓練模型的數據集和配置等上傳上去，上傳完之後，我們在點擊，進入下面頁面：上传文件文件夹更多\Google Colaboratory
+<img width="1919" height="842" alt="image" src="https://github.com/user-attachments/assets/38e02c47-1235-4026-8f15-3705f9162098" />
 
 單擊紅色框內按鈕，裝載 Google 雲端硬碟，或者運行下面代碼：
 
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
+```
+掛載成功后，我們可以在右側種選擇，找到雲端硬碟，見下圖：content/drive/MyDrive
