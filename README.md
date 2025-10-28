@@ -44,3 +44,5 @@ drive.mount('/content/drive')
 ```
 掛載成功后，我們可以在右側種選擇，找到雲端硬碟，見下圖：content/drive/MyDrive
 <img width="1917" height="911" alt="螢幕擷取畫面 2025-10-28 154148" src="https://github.com/user-attachments/assets/e65424ac-1176-4530-b621-6274610a1d9f" />
+
+
