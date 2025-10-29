@@ -1,5 +1,6 @@
 # 如何一步步用 Google Colaboratory 訓練自己的模型？
-
+11224208 張承均
+---
 本文介紹如何利用 Google Colaboratory 的免費 GPU 資源進行高效的深度學習模型訓練，並對比了 GPU 與 CPU 在訓練過程中的性能差異。  
 > ⚠️ 使用 Google Colaboratory 必須翻牆。
 
